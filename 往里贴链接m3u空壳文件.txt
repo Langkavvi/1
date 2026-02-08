@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="港澳",TVB
+http://hls.168.us.kg/u/81/master.m3u8
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -8,3 +11,4 @@ https://cdn6.101.qzz.io/163189/fct
 http://121.37.185.74:18180/TV00000000000000000055@HHZT
 https://cdn3.163189.xyz/live/fct/stream.m3u8
 https://stream.iptv-search.com/iptv_test/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1757403106&token=7b4a63a3d0b206d89835019532e84905
+
