@@ -2,11 +2,8 @@
 #EXTINF:-1 tvg-logo="" group-title="港澳",TVB
 http://hls.168.us.kg/u/81/master.m3u8
 http://74.91.26.218:82/live/jade.m3u8
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv
-http://v2h.veryfast.filegear-sg.me/live/fct/stream.m3u8
-http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+
 
 
 
