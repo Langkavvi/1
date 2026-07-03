@@ -1,19 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="港澳",TVB
-https://cdn.qd.je/163189.php?id=fct
-http://112.92.128.71:9003/hls/53/index.m3u8
-https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
 
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 https://cdn.qd.je/163189.php?id=fct
 http://o11.163189.xyz/stream/tvb/fct/
 https://live.catvod.com/iptv.php?id=fctsub
-http://o11.163189.xyz/stream/tvb/fct/
 
 https://o11.163189.xyz/stream/tvb/fct/
 http://o11.163189.xyz/stream/tvb/fct/
