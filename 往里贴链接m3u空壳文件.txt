@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="港澳",TVB
 
+https://cdn3.indevs.in/stream/tvb/fct/
+https://10.fast.hidns.vip/163189/fct/
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 https://cdn.qd.je/163189.php?id=fct
 
