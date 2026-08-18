@@ -6,33 +6,10 @@ https://10.fast.hidns.vip/163189/fct/
 http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 https://cdn.qd.je/163189.php?id=fct
 
-https://cdn3.indevs.in/stream/tvb/fct/
-https://mytv1.kzzc.eu.cc/?url=https://cdn3.indevs.in/stream/tvb/fct/
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
-https://10.fast.hidns.vip/163189/fct/
-https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fct
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-https://live.catvod.com/iptv.php?id=fctsub
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/fct/
-https://cdn6.cc.cd/163189/fct
-http://221.179.116.213:9901/tsfile/live/1004_1.m3u8?key=txiptv
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-https://cdn.qd.je/163189.php?id=fct
-
-
-
 
 http://o11.163189.xyz/stream/tvb/fct/
 https://live.catvod.com/iptv.php?id=fctsub
 
-
-
-https://o11.163189.xyz/stream/tvb/fct/
 
 
 
